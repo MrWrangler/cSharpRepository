@@ -9,3 +9,14 @@ C:\C# workspace\GitProjects\cSharpRepository\cSharpRepository\obj\Debug\netcorea
 C:\C# workspace\GitProjects\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.AssemblyInfo.cs
 C:\C# workspace\GitProjects\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.dll
 C:\C# workspace\GitProjects\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.pdb
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\bin\Debug\netcoreapp2.2\cSharpRepository.deps.json
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\bin\Debug\netcoreapp2.2\cSharpRepository.runtimeconfig.json
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\bin\Debug\netcoreapp2.2\cSharpRepository.runtimeconfig.dev.json
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\bin\Debug\netcoreapp2.2\cSharpRepository.dll
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\bin\Debug\netcoreapp2.2\cSharpRepository.pdb
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.csprojAssemblyReference.cache
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.csproj.CoreCompileInputs.cache
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.AssemblyInfoInputs.cache
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.AssemblyInfo.cs
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.dll
+C:\cSharpWorkspsace\cSharpRepository\cSharpRepository\obj\Debug\netcoreapp2.2\cSharpRepository.pdb

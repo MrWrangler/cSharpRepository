@@ -20,7 +20,7 @@ namespace cSharpRepository
             Console.WriteLine("Opgave 2 = " + opgave2.projectEuler2());
 
             Opgave20 opgave20 = new Opgave20();
-            Console.WriteLine("Opgave20 = " + opgave20.projectEuler20());
+            Console.WriteLine("Opgave 20 = " + opgave20.projectEuler20());
 
         }
     }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# workspace\\GitProjects\\cSharpRepository\\cSharpRepository\\cSharpRepository.csproj",
+      "projectUniqueName": "c:\\cSharpWorkspsace\\cSharpRepository\\cSharpRepository\\cSharpRepository.csproj",
       "projectName": "cSharpRepository",
-      "projectPath": "C:\\C# workspace\\GitProjects\\cSharpRepository\\cSharpRepository\\cSharpRepository.csproj",
+      "projectPath": "c:\\cSharpWorkspsace\\cSharpRepository\\cSharpRepository\\cSharpRepository.csproj",
       "packagesPath": "C:\\Users\\datan\\.nuget\\packages\\",
-      "outputPath": "C:\\C# workspace\\GitProjects\\cSharpRepository\\cSharpRepository\\obj\\",
+      "outputPath": "c:\\cSharpWorkspsace\\cSharpRepository\\cSharpRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
