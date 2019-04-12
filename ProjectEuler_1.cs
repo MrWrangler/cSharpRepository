@@ -50,6 +50,7 @@ namespace cSharpRepository
             return sum;
         }
     }
+
     class Opgave2
     {
         //  https://projecteuler.net/problem=2
